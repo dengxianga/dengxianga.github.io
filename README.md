@@ -10,7 +10,7 @@ Wisconsin Madsion. I think what I have done best decribes myself:
 Current Research on Humanoid Robot Balancing | Undergraduate Thesis 
 :-------------------------:|:-------------------------: 
 <img src="img/darwin_f.jpg" width="450"> | <img src="img/myrobot.jpg" width="450">
-[repo link](https://github.com/dengxianga/Supplementy-Webpage) | [repo link](http://sethares.engr.wisc.edu/XiangThesis/index.html)
+[link](https://www.seas.upenn.edu/~dxiang/) | [repo link](http://sethares.engr.wisc.edu/XiangThesis/index.html)
  
 
 ### A collection of CUDA projects
